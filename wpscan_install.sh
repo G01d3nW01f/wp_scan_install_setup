@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "WP_5c4n installing...."
+echo "installing...."
 
 sudo apt install ruby
 
